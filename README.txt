@@ -1,7 +1,5 @@
 This project uses python language to perform OCR on the given Docker Container documents (.pdf) and extracts required data.
-
 OCR_1.pdf and OCR_2.pdf are the Docker Container documents.
-
 The required data :-
 
 OCR_1.pdf --> Pick values of labels
@@ -212,4 +210,4 @@ Container2 Seal No. = BOLTOLI92079
 container2 Size = 40
 container2 Date = s
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
